@@ -1,0 +1,7 @@
+django
+postgres
+psycopg2
+netaddr
+dj-database-url
+gunicorn
+whitenoise
